@@ -8,7 +8,7 @@ This project implements a fully customizable feed forward neural network from sc
 The primary objective is to predict the survival of Titanic passengers based on available information, such as gender, age, and ticket class, using a deep neural network. The model achieved 91.84% accuracy on test data, using two hidden layers with optimized parameters.
 
 ## Dataset
-The dataset consists of 1,309 records with 12 features, including:
+The Titanic dataset consists of 1,309 records with 12 features, including:
 
 - **PassengerId**: Unique ID
 - **Pclass**: Ticket class
